@@ -1,4 +1,4 @@
-module github.com/limit
+module github.com/zhqqqy/flamego-limit
 
 go 1.17
 
